@@ -33,6 +33,6 @@
 
    <h1> beutiful girl </h1>
    <br>
-   <h1> Love you yar </h1>
+   <h1> Love </h1>
 
 </form>
