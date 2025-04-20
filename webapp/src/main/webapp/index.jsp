@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hey DevOps Learners! Wishing you the best of luck on your journey! </h1>
+    <h1>Hey Diya miss you Yaar </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,8 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank You </h1>
+   <h1> beutiful girl </h1>
    <br>
-   <h1> Happy 1 </h1>
+   <h1> Love you  </h1>
 
 </form>
